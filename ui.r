@@ -1,6 +1,5 @@
 library(shiny)
 library(DT)
-showtext_auto()
 fluidPage(
   headerPanel('IMDB TOP250'),
   fluidPage(
